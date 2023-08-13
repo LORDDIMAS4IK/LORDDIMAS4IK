@@ -1,8 +1,8 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
-
-<img height="350" align="right" alt="coding" src="https://lh4.googleusercontent.com/cUc7YlG4DC9ALgyi-4jXjDKzl0RoGuqOmqsPDuZOK-CsFtSLosxRui9Cb-3XcgDIPXQ=w2400">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&vCenter=true&width=506&lines=HI%2C+I'm+Dmitriy+and+I'm+an+Android+developer" alt="Typing SVG" /></a>
+<img height="350" align="right" alt="coding" src="https://lh4.googleusercontent.com/cUc7YlG4DC9ALgyi-4jXjDKzl0RoGuqOmqsPDuZOK-CsFtSLosxRui9Cb-3XcgDIPXQ=w2400">
+
 
 # 💫 About Me:
 👨‍🎓 I’m currently a MTUCI and S21 student <br>
