@@ -7,7 +7,7 @@
 # 💫 About Me:
 👨‍🎓 I’m currently a MTUCI and S21 student <br>
 🌱 I’m currently learning Programming, Algorithms, Data Structures and Android<br>
-🆘 I’m need help studing Algorithms and going Interviews <br>
+🆘 I need help studing Algorithms and going Interviews <br>
 ✉️ You could write me on my e-mail klochixindima8@gmail.com<br>
 😄 Pronouns: He\Him<br>
 🌐 Country: Russia<br>
