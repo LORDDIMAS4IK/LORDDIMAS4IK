@@ -47,10 +47,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=LORDDIMAS4IK&theme=dark&date_format=j%20M%5B%20Y%5D)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LORDDIMAS4IK&theme=dark&layout=donut)
 
 # 📊 CodeWars Stats:
- [![codewars](https://www.codewars.com/users/klodmit/badges/large)]
+ [![codewars](https://www.codewars.com/users/klodmit/badges/large)](https://www.codewars.com/users/klodmit)
  
 # 📊 LeetCode Stats:
- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dimas4ik&theme=dark)](https://leetcode.com/Dimas4ik/)
+ [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=klodmit&theme=dark)](https://leetcode.com/klodmit/)
 
 
 
