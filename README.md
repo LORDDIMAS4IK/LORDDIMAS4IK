@@ -44,7 +44,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=LORDDIMAS4IK&theme=dark&date_format=j%20M%5B%20Y%5D)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LORDDIMAS4IK&theme=dark&layout=donut)
+![GitHub Streak](https://streak-stats.demolab.com?user=klodmit&theme=dark&date_format=j%20M%5B%20Y%5D)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klodmit&theme=dark&layout=donut)
 
 # 📊 CodeWars Stats:
  [![codewars](https://www.codewars.com/users/klodmit/badges/large)](https://www.codewars.com/users/klodmit)
