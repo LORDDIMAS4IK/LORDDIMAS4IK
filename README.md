@@ -55,6 +55,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=klodmit&icon=4&color=3)](https://visitcount.itsvg.in)
-
-<a href="https://github.com/DevLordship"></a>
+![](https://komarev.com/ghpvc/?username=klodmit)
