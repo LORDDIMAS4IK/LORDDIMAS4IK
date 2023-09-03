@@ -43,6 +43,13 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+# 👨‍💻 My Pet Projects/Course projects:
+[![Tik Tac Toe Card](https://github-readme-stats.vercel.app/api/pin/?username=klodmit&repo=tictactoegame&theme=dark)](https://github.com/klodmit/tictactoegame)
+[![labait1kurs Card](https://github-readme-stats.vercel.app/api/pin/?username=klodmit&repo=labait1kurs&theme=dark)](https://github.com/klodmit/labait1kurs)
+
+
+
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=klodmit&theme=dark&date_format=j%20M%5B%20Y%5D)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klodmit&theme=dark&layout=donut)
 
